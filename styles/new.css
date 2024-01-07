@@ -155,3 +155,35 @@ margin-top: 10px;
 .description-d {
     margin-top: 10px;
 }
+
+.last-section {
+    margin: 80px 150px 30px 320px; 
+    height: 150px;
+    width: 700px;
+    border: 1px solid red;
+    background-image: url('../images/watch.png');
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title-ls{
+    margin-top: 25px;
+    margin-left: 25px;
+    width: 300px;
+    font-size: 25px;
+    color: #fff;
+}
+
+.btn-ls{
+    margin-left: 25px;
+    margin-top: 10px;
+    border-radius: 2px;
+    background: #FFF;
+    border: none;
+    width: 90px;
+    height: 35px;
+    color: #F15B22;
+    font-weight: 600
+    
+}
